@@ -1,20 +1,13 @@
 # Dynamic Forms
 
+[redux-form Code Sandbox Demo](https://codesandbox.io/s/hardcore-bush-9ql5y)  
+[react-jsonschema-form Code Sandbox Demo](https://codesandbox.io/s/react-jsonschema-form-vio4n)  
+
 ## Learning Objectives
 
 * Implement a generic form using Redux Form
 * Implement a generic standard form using JSON Schema
 * Connect form data back to the store
-
-## Outline
-* :05 **Housekeeping/Recap**
-* :30 **Whiteboard/DSA Review**
-* :15 **Lightning Talk**
-* Break
-* :30 **CS/UI Concepts** -
-* :20 **Code Review**
-* Break
-* :60 **Main Topic**
 
 ## UI Concept:
 * UX: Form Usability and Styling
