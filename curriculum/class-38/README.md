@@ -1,20 +1,12 @@
 # Remote APIs
 
+[Thunk Code Sandbox Demo](https://codesandbox.io/s/vigorous-grass-o4z3q)  
+
 ## Learning Objectives
 
 * Understand and implement `thunk` middleware
 * Perform asynchronous redux actions
 * Take advantage of lifecycle hooks
-
-## Outline
-* :05 **Housekeeping/Recap**
-* :30 **Whiteboard/DSA Review**
-* :15 **Lightning Talk**
-* Break
-* :30 **CS/UI Concepts** -
-* :20 **Code Review**
-* Break
-* :60 **Main Topic**
 
 ## UI Concept:
 * `<List />` component
