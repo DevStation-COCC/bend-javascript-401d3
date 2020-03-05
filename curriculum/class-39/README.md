@@ -1,5 +1,7 @@
 # Combined Reducers, Drag and Drop
 
+[Splitting Reducers Code Sandbox](https://codesandbox.io/s/splitting-reducers-hqsef)  
+
 ## Learning Objectives
 
 * Describe and Define
@@ -9,14 +11,5 @@
   * Splitting a complex reducer into multiples
   * Implementing drag and drop via state and composition
   
-## Outline
-* :05 **Housekeeping/Recap**
-* :30 **Whiteboard/DSA Review**
-* :15 **Lightning Talk**
-* Break
-* :30 **CS/UI Concepts** -
-* :20 **Code Review**
-* Break
-* :60 **Main Topic**
 
 

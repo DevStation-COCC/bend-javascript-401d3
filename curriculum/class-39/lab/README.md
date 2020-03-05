@@ -50,6 +50,8 @@ const myDropHandler = (targetPayload, droppedPayload) => {
 
 ### Requirements
 
+* Prepare for a code review presentation. Student will be chosen randomly, one to code review their ToDo implementation and one to code review their test.
+
 ### Testing
 * tests that ensure the list module functions correctly with error-check parameters
 
